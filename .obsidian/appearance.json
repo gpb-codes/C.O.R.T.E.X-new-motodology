@@ -1,0 +1,14 @@
+{
+  "accentColor": "#8e44ad",
+  "baseFontSize": 15,
+  "cssTheme": "",
+  "enabledCssSnippets": [
+    "cortex-theme"
+  ],
+  "interfaceFontFamily": "",
+  "monospaceFontFamily": "JetBrains Mono, Fira Code, Cascadia Code",
+  "nativeMenus": false,
+  "showViewHeader": true,
+  "textFontFamily": "",
+  "theme": "obsidian"
+}

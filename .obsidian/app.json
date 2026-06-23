@@ -1,0 +1,22 @@
+{
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "attachments",
+  "communityPluginSortOrder": "download",
+  "defaultViewMode": "source",
+  "livePreview": true,
+  "newFileLocation": "current",
+  "newLinkFormat": "shortest",
+  "promptDelete": false,
+  "showUnsupportedFiles": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "strictLineBreaks": false,
+  "tabSize": 2,
+  "trashOption": "system",
+  "useMarkdownLinks": true,
+  "userIgnoreFilters": [
+    "scripts/"
+  ],
+  "foldHeading": true,
+  "foldIndent": true
+}
