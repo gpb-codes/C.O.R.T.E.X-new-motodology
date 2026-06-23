@@ -1,12 +1,3 @@
-# Obsidian (user-specific)
-.obsidian/workspace
-.obsidian/workspace.json
-.obsidian/cache/
-.obsidian/plugins/
-.obsidian/themes/
-.obsidian/*.workspace
-.trash/
-
 # OS
 Thumbs.db
 .DS_Store
@@ -14,3 +5,10 @@ Thumbs.db
 # Temp
 *.tmp
 temp/
+
+# Obsidian user-specific
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/cache/
+.obsidian/*.workspace
+.trash/
