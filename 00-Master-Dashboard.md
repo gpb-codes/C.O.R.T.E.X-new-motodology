@@ -4,6 +4,63 @@
 
 - **Semana:** `= dateformat(date(today), "yyyy-ww")`
 - **Ultima actualizacion:** `= dateformat(date(today), "dd/MM/yyyy")`
+- **Proxima revision:** [[_META-CORTEX]] | [[_ONBOARDING]]
+
+---
+
+## Metricas rapidas
+
+```dataview
+TABLE WITHOUT ID
+  "Proyectos activos" as "Metrica",
+  length(rows) as "Valor"
+FROM "03 Transformar/Proyectos/Activos"
+WHERE status = "activo"
+FLATTEN length(rows)
+LIMIT 1
+```
+
+```dataview
+TABLE WITHOUT ID
+  "Repasos vencidos" as "Metrica",
+  length(rows) as "Valor"
+FROM "05 eXpandir/Repaso"
+WHERE proximo-repaso <= date(today)
+FLATTEN length(rows)
+LIMIT 1
+```
+
+```dataview
+TABLE WITHOUT ID
+  "Decisiones pendientes" as "Metrica",
+  length(rows) as "Valor"
+FROM "05 eXpandir/Decisiones"
+WHERE status = "pendiente" OR status = "tomada"
+FLATTEN length(rows)
+LIMIT 1
+```
+
+---
+
+## Charts de progreso (requiere Obsidian Charts plugin)
+
+```chart
+type: bar
+labels: [Proyectos, Estudio, Startup, Areas]
+series:
+  - title: Progreso %
+    data: [0, 0, 0, 0]
+```
+
+```chart
+type: line
+labels: [Sem1, Sem2, Sem3, Sem4]
+series:
+  - title: Horas de estudio
+    data: [0, 0, 0, 0]
+  - title: Tareas completadas
+    data: [0, 0, 0, 0]
+```
 
 ---
 
@@ -94,6 +151,48 @@ TABLE
   fecha as "Fecha",
   dominio as "Dominio"
 FROM "05 eXpandir/Extracciones AXIS"
+SORT fecha DESC
+LIMIT 5
+```
+
+---
+
+## Proyectos en pausa
+
+```dataview
+TABLE
+  prioridad as "Prioridad",
+  fecha-inicio as "Inicio"
+FROM "03 Transformar/Proyectos/En Pausa"
+WHERE status = "en-pausa"
+SORT prioridad ASC
+```
+
+---
+
+## Repaso vencido
+
+```dataview
+TABLE
+  fecha-repaso as "Ultimo repaso",
+  dificultad as "Dificultad",
+  proximo-repaso as "Vencido desde"
+FROM "05 eXpandir/Repaso"
+WHERE proximo-repaso <= date(today)
+SORT proximo-repaso ASC
+```
+
+---
+
+## Decisiones activas
+
+```dataview
+TABLE
+  fecha as "Fecha",
+  dominio as "Dominio",
+  impacto as "Impacto"
+FROM "05 eXpandir/Decisiones"
+WHERE status = "tomada" OR status = "en-ejecucion"
 SORT fecha DESC
 LIMIT 5
 ```

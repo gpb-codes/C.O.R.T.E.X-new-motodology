@@ -4,10 +4,11 @@ fecha-inicio: {{date:YYYY-MM-DD}}
 fecha-fin: 
 status: activo
 prioridad: media
-tags: [proyecto]
+tags: [proyecto, activo]
 dominio: []
 entregable: 
 dependencias: []
+archivar-el: 
 ---
 
 # {{title}}
@@ -18,6 +19,17 @@ dependencias: []
 - **Alcance:**
 - **Criterios de exito:**
 - **Entregable principal:**
+
+## Estados del proyecto
+
+| Estado | Significado |
+|---|---|
+| `backlog` | Idea validada, aun no se empieza |
+| `activo` | En ejecucion actual |
+| `en-pausa` | Detenido temporalmente por prioridad o bloqueo |
+| `review` | Pendiente de revision o aceptacion |
+| `completado` | Entregable terminado y aceptado |
+| `cancelado` | Descartado por decision o cambio de prioridad |
 
 ## Planificacion
 
@@ -64,4 +76,10 @@ dependencias: []
 
 ## Lecciones aprendidas (completar al finalizar)
 
-- 
+-
+
+## Archivo
+
+<!-- Este proyecto se archiva automaticamente si no hay actividad en 90 dias tras completado -->
+- **Fecha de archivo:** `= this.archivar-el`
+- **Archivado:** No

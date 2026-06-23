@@ -35,6 +35,15 @@ Conectar el conocimiento para hacerlo navegable y descubrible. Cada nota debe es
 | [[MOC-Decisiones]] | Registro de decisiones y patrones detectados | Activo |
 | [[MOC-Extracciones]] | Indice de extracciones por dominio | Activo |
 
+### Transversales (multi-dominio)
+
+| MOC | Descripcion | Estado |
+|---|---|---|
+| [[MOC-Herramientas]] | Catalogo de software, servicios y herramientas | Activo |
+| [[MOC-Libros]] | Registro de lecturas y lista de espera | Activo |
+| [[MOC-Principios]] | Heuristicas fundamentales de diseno y decision | Activo |
+| [[MOC-Repaso]] | Sistema de repaso espaciado | Activo |
+
 ---
 
 ## Reglas

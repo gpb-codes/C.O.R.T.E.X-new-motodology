@@ -81,8 +81,22 @@ SORT fecha DESC
 
 ---
 
+## Decision Log
+
+Ver [[_DECISION-LOG]] para el panel central de decisiones con status, impacto y seguimiento.
+
+---
+
+## Archivo
+
+Ver [[_ARCHIVO]] para reglas de archivado por tipo de contenido y dashboard de proximo a archivar.
+
+---
+
 ## Acciones pendientes
 
 - [ ] Realizar revision semanal
 - [ ] Consolidar extracciones AXIS de la semana
 - [ ] Actualizar contexto recurrente de A.X.I.S.
+- [ ] Revisar repasos vencidos (ver [[MOC-Repaso]])
+- [ ] Revisar decisiones pendientes (ver [[_DECISION-LOG]])
