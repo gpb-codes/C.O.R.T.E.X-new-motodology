@@ -1,0 +1,10 @@
+{
+  "id": "obsidian-hider",
+  "name": "Hider",
+  "version": "1.3.1",
+  "minAppVersion": "0.15.0",
+  "description": "Hide various parts of the Obsidian UI for cleaner note-taking",
+  "author": "@kepano",
+  "authorUrl": "https://github.com/kepano/obsidian-hider",
+  "isDesktopOnly": false
+}

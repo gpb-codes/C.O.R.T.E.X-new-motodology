@@ -1,0 +1,16 @@
+{
+  "height": 300,
+  "style": "gradient",
+  "showInInternalEmbed": true,
+  "showInPreviewEmbed": true,
+  "showInFrontmatter": false,
+  "showInMenu": true,
+  "showInSidebar": false,
+  "showInProperties": false,
+  "allowMobilePadding": true,
+  "showYearHeader": false,
+  "showYearHeaderMobile": false,
+  "showBottomGradient": true,
+  "showImageInEmbedOnly": false,
+  "previewWidth": 1.0
+}

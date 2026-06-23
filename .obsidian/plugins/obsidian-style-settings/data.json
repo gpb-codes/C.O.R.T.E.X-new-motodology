@@ -1,0 +1,10 @@
+{
+  "cortex-theme@@accent-preset": "accent-cortex",
+  "cortex-theme@@theme-variant": "theme-cortex-light",
+  "cortex-theme@@animation-level": "anim-standard",
+  "cortex-theme@@font-scale": 1,
+  "cortex-theme@@corner-rounding": 1,
+  "cortex-theme@@header-style": "header-polished",
+  "cortex-theme@@glassmorphism": true,
+  "cortex-theme@@animated-glow": false
+}

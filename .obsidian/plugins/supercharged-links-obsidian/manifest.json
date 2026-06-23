@@ -1,0 +1,10 @@
+{
+  "id": "supercharged-links-obsidian",
+  "name": "Supercharged Links",
+  "version": "0.10.6",
+  "minAppVersion": "0.16.0",
+  "description": "Adds properties to internal links with CSS classes based on frontmatter",
+  "author": "mdelobelle & Emile",
+  "authorUrl": "https://github.com/mdelobelle/obsidian_supercharged_links",
+  "isDesktopOnly": false
+}
