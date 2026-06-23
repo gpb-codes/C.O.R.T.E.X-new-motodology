@@ -1,6 +1,6 @@
 /*
   C.O.R.T.E.X. Theme v3
-  Palette: #4B167A #8E44AD #F2C14E #FFF1C9 #2C2A33
+  Palette: #5A189A #9D4EDD #B68D40 #E7D7B8 #3C2F2F
   Style: polished, modern, luminous, premium, glassmorphism
   Supports: Light/Dark, Style Settings, Canvas, Mobile, Properties
 */
@@ -109,20 +109,20 @@
        - id: bg-primary-light
          title: Background Primary
          type: variable-themed-color
-         default: '#FFFAF0'
-         light: '#FFFAF0'
+          default: '#F5EFE3'
+          light: '#F5EFE3'
 
        - id: bg-secondary-light
          title: Background Secondary
          type: variable-themed-color
-         default: '#F5ECD8'
-         light: '#F5ECD8'
+          default: '#EDE3CF'
+          light: '#EDE3CF'
 
        - id: text-normal-light
          title: Text Normal
          type: variable-themed-color
-         default: '#2C2A33'
-         light: '#2C2A33'
+          default: '#3C2F2F'
+          light: '#3C2F2F'
 
    @settings
    name: Colors — Dark
@@ -131,14 +131,14 @@
        - id: bg-primary-dark
          title: Background Primary
          type: variable-themed-color
-         default: '#1A1820'
-         dark: '#1A1820'
+          default: '#1A1520'
+          dark: '#1A1520'
 
        - id: bg-secondary-dark
          title: Background Secondary
          type: variable-themed-color
-         default: '#221F2A'
-         dark: '#221F2A'
+          default: '#221D2A'
+          dark: '#221D2A'
 
        - id: text-normal-dark
          title: Text Normal
@@ -171,35 +171,35 @@
    ============================================================ */
 .theme-cortex-light.theme-light,
 .theme-cortex-auto.theme-light {
-  --cortex-deep: #4B167A;
-  --cortex-purple: #8E44AD;
-  --cortex-gold: #F2C14E;
-  --cortex-cream: #FFF1C9;
-  --cortex-dark: #2C2A33;
-  --cortex-mid: #7A6F8A;
-  --cortex-bg-glow: #FFFAF0;
+  --cortex-deep: #5A189A;
+  --cortex-purple: #9D4EDD;
+  --cortex-gold: #B68D40;
+  --cortex-cream: #E7D7B8;
+  --cortex-dark: #3C2F2F;
+  --cortex-mid: #8A7AA0;
+  --cortex-bg-glow: #F5EFE3;
 
-  --cortex-deep-rgb: 75, 22, 122;
-  --cortex-purple-rgb: 142, 68, 173;
-  --cortex-gold-rgb: 242, 193, 78;
-  --cortex-cream-rgb: 255, 241, 201;
-  --cortex-dark-rgb: 44, 42, 51;
+  --cortex-deep-rgb: 90, 24, 154;
+  --cortex-purple-rgb: 157, 78, 221;
+  --cortex-gold-rgb: 182, 141, 64;
+  --cortex-cream-rgb: 231, 215, 184;
+  --cortex-dark-rgb: 60, 47, 47;
 
   --color-accent: var(--cortex-purple);
   --color-accent-1: var(--cortex-deep);
-  --color-accent-2: #6B2C9A;
+  --color-accent-2: #7B2DBF;
 
-  --background-primary: var(--bg-primary-light, #FFFAF0);
+  --background-primary: var(--bg-primary-light, #F5EFE3);
   --background-primary-alt: var(--cortex-cream);
-  --background-secondary: var(--bg-secondary-light, #F5ECD8);
-  --background-secondary-alt: #EDE3CB;
+  --background-secondary: var(--bg-secondary-light, #EDE3CF);
+  --background-secondary-alt: #E3D7BF;
 
   --background-modifier-border: rgba(var(--cortex-dark-rgb), 0.12);
   --background-modifier-border-hover: var(--cortex-purple);
   --background-modifier-form-field: var(--cortex-cream);
   --background-modifier-success: #6BBF59;
-  --background-modifier-error: #E74C3C;
-  --background-modifier-error-hover: #C0392B;
+  --background-modifier-error: #D94A4A;
+  --background-modifier-error-hover: #B83838;
 
   --text-normal: var(--text-normal-light, var(--cortex-dark));
   --text-muted: rgba(var(--cortex-dark-rgb), 0.62);
@@ -209,7 +209,7 @@
   --text-on-accent: #FFFFFF;
   --text-highlight-bg: rgba(var(--cortex-gold-rgb), 0.25);
   --text-selection: rgba(var(--cortex-purple-rgb), 0.15);
-  --text-error: #E74C3C;
+  --text-error: #D94A4A;
 
   --interactive-accent: var(--cortex-purple);
   --interactive-accent-hover: var(--cortex-deep);
@@ -247,8 +247,8 @@
   --pill-e: var(--cortex-purple);
   --pill-x: var(--cortex-deep);
 
-  --glass-bg: rgba(255, 250, 240, 0.72);
-  --glass-border: rgba(44, 42, 51, 0.08);
+  --glass-bg: rgba(245, 239, 227, 0.72);
+  --glass-border: rgba(60, 47, 47, 0.08);
   --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.06);
   --glass-blur: 12px;
 }
@@ -258,28 +258,28 @@
    ============================================================ */
 .theme-cortex-dark.theme-dark,
 .theme-cortex-auto.theme-dark {
-  --cortex-deep: #8B5CF6;
-  --cortex-purple: #A78BFA;
-  --cortex-gold: #FBBF24;
-  --cortex-cream: #2D283E;
-  --cortex-dark: #1A1820;
-  --cortex-mid: #9CA3AF;
-  --cortex-bg-glow: #1A1820;
+  --cortex-deep: #7B3FBF;
+  --cortex-purple: #B06CE0;
+  --cortex-gold: #C9A35A;
+  --cortex-cream: #3C2F2F;
+  --cortex-dark: #1A1520;
+  --cortex-mid: #9A8AB0;
+  --cortex-bg-glow: #1A1520;
 
-  --cortex-deep-rgb: 139, 92, 246;
-  --cortex-purple-rgb: 167, 139, 250;
-  --cortex-gold-rgb: 251, 191, 36;
-  --cortex-cream-rgb: 45, 40, 62;
-  --cortex-dark-rgb: 26, 24, 32;
+  --cortex-deep-rgb: 123, 63, 191;
+  --cortex-purple-rgb: 176, 108, 224;
+  --cortex-gold-rgb: 201, 163, 90;
+  --cortex-cream-rgb: 60, 47, 47;
+  --cortex-dark-rgb: 26, 21, 32;
 
   --color-accent: var(--cortex-purple);
   --color-accent-1: var(--cortex-deep);
-  --color-accent-2: #7C3AED;
+  --color-accent-2: #6B2DBF;
 
-  --background-primary: var(--bg-primary-dark, #1A1820);
+  --background-primary: var(--bg-primary-dark, #1A1520);
   --background-primary-alt: var(--cortex-cream);
-  --background-secondary: var(--bg-secondary-dark, #221F2A);
-  --background-secondary-alt: #2A2635;
+  --background-secondary: var(--bg-secondary-dark, #221D2A);
+  --background-secondary-alt: #2A2535;
 
   --background-modifier-border: rgba(255, 255, 255, 0.08);
   --background-modifier-border-hover: var(--cortex-purple);
@@ -311,7 +311,7 @@
   --shadow-lg: 0 8px 30px rgba(0, 0, 0, 0.35);
   --shadow-xl: 0 16px 48px rgba(0, 0, 0, 0.4);
 
-  --glass-bg: rgba(26, 24, 32, 0.78);
+  --glass-bg: rgba(26, 21, 32, 0.78);
   --glass-border: rgba(255, 255, 255, 0.06);
   --glass-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
   --glass-blur: 12px;
@@ -543,7 +543,7 @@ em, .cm-em { color: var(--cortex-purple); }
 
 /* Tag colors by domain */
 .tag[href*="conocimiento"] { border-color: rgba(var(--cortex-deep-rgb), 0.2); color: var(--cortex-deep) !important; }
-.tag[href*="conocimiento"]:hover { background: linear-gradient(135deg, var(--cortex-deep), #6B2C9A); }
+.tag[href*="conocimiento"]:hover { background: linear-gradient(135deg, var(--cortex-deep), #7B2DBF); }
 
 .tag[href*="estudio"] { border-color: rgba(var(--cortex-gold-rgb), 0.3); color: #B8860B !important; }
 .tag[href*="estudio"]:hover { background: linear-gradient(135deg, var(--cortex-gold), #D4A017); color: var(--cortex-dark) !important; }
@@ -1899,7 +1899,7 @@ img:active {
 }
 
 .cortex-pillar-r {
-  background: linear-gradient(135deg, var(--pill-r), #6B2C9A);
+  background: linear-gradient(135deg, var(--pill-r), #7B2DBF);
   color: white;
 }
 
@@ -1914,7 +1914,7 @@ img:active {
 }
 
 .cortex-pillar-x {
-  background: linear-gradient(135deg, var(--pill-x), #6B2C9A);
+  background: linear-gradient(135deg, var(--pill-x), #7B2DBF);
   color: white;
 }
 
