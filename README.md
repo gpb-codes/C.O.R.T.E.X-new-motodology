@@ -25,7 +25,7 @@
 </p>
 
 <p style="color: #2C2A33; opacity: 0.55; font-size: 0.92em; margin-top: 10px;">
-  Sistema Integral de Conocimiento · Estudio · Startup · Memoria A.X.I.S.
+  Sistema Integral de Conocimiento &middot; Estudio &middot; Startup &middot; Memoria A.X.I.S.
 </p>
 
 </div>
@@ -52,14 +52,14 @@
 
 ---
 
-## Que es C.O.R.T.E.X.?
+## &iquest;Qu&eacute; es C.O.R.T.E.X.?
 
 <p style="color: #2C2A33; line-height: 1.7; font-size: 1.02em;">
-<strong style="color: #4B167A;">C.O.R.T.E.X.</strong> es una metodologia de gestion de conocimiento personal <strong style="color: #8E44AD;">(PKM)</strong> disenada para reemplazar y mejorar el sistema PACE (Proyectos, Areas, Conexiones, Extracciones). El nombre evoca la corteza cerebral — el centro del pensamiento, las conexiones y el aprendizaje.
+<strong style="color: #4B167A;">C.O.R.T.E.X.</strong> es una metodolog&iacute;a de gesti&oacute;n de conocimiento personal <strong style="color: #8E44AD;">(PKM)</strong> dise&ntilde;ada para reemplazar y mejorar el sistema PACE (Proyectos, &Aacute;reas, Conexiones, Extracciones). El nombre evoca la corteza cerebral &mdash; el centro del pensamiento, las conexiones y el aprendizaje.
 </p>
 
 <p style="color: #2C2A33; line-height: 1.7; font-size: 1.02em;">
-Cubre <strong style="color: #4B167A;">cuatro dominios</strong> a traves de <strong style="color: #8E44AD;">seis pilares</strong>:
+Cubre <strong style="color: #4B167A;">cuatro dominios</strong> a trav&eacute;s de <strong style="color: #8E44AD;">seis pilares</strong>:
 </p>
 
 <br>
@@ -111,7 +111,7 @@ Cubre <strong style="color: #4B167A;">cuatro dominios</strong> a traves de <stro
     <td align="center" style="border: none; border-radius: 12px; padding: 22px 18px; background: linear-gradient(135deg, rgba(75,22,122,0.08), rgba(75,22,122,0.02)); border: 1px solid rgba(75,22,122,0.15);">
       <div style="font-size: 2.2em; font-weight: 700; color: #4B167A;">Saber</div>
       <div style="color: #2C2A33; opacity: 0.5; font-size: 0.8em; letter-spacing: 1px;">CONOCIMIENTO</div>
-      <div style="margin-top: 6px; font-size: 0.78em; color: #2C2A33; opacity: 0.65;">Capturar, organizar y relacionar informacion tecnica y general</div>
+      <div style="margin-top: 6px; font-size: 0.78em; color: #2C2A33; opacity: 0.65;">Capturar, organizar y relacionar informaci&oacute;n t&eacute;cnica y general</div>
     </td>
     <td align="center" style="border: none; border-radius: 12px; padding: 22px 18px; background: linear-gradient(135deg, rgba(142,68,173,0.08), rgba(142,68,173,0.02)); border: 1px solid rgba(142,68,173,0.15);">
       <div style="font-size: 2.2em; font-weight: 700; color: #8E44AD;">Aprender</div>
@@ -121,7 +121,7 @@ Cubre <strong style="color: #4B167A;">cuatro dominios</strong> a traves de <stro
     <td align="center" style="border: none; border-radius: 12px; padding: 22px 18px; background: linear-gradient(135deg, rgba(242,193,78,0.12), rgba(242,193,78,0.03)); border: 1px solid rgba(242,193,78,0.25);">
       <div style="font-size: 2.2em; font-weight: 700; color: #B8860B;">Crear</div>
       <div style="color: #2C2A33; opacity: 0.5; font-size: 0.8em; letter-spacing: 1px;">STARTUP</div>
-      <div style="margin-top: 6px; font-size: 0.78em; color: #2C2A33; opacity: 0.65;">OKRs, roadmap, metricas, funnel de clientes y retrospectivas</div>
+      <div style="margin-top: 6px; font-size: 0.78em; color: #2C2A33; opacity: 0.65;">OKRs, roadmap, m&eacute;tricas, funnel de clientes y retrospectivas</div>
     </td>
     <td align="center" style="border: none; border-radius: 12px; padding: 22px 18px; background: linear-gradient(135deg, rgba(44,42,51,0.06), rgba(44,42,51,0.02)); border: 1px solid rgba(44,42,51,0.1);">
       <div style="font-size: 2.2em; font-weight: 700; color: #2C2A33;">Recordar</div>
@@ -144,39 +144,39 @@ Cubre <strong style="color: #4B167A;">cuatro dominios</strong> a traves de <stro
     <tr style="background: linear-gradient(135deg, #4B167A, #8E44AD);">
       <th style="color: white; padding: 10px 16px; font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px; border: none; text-align: left;">Pilar</th>
       <th style="color: white; padding: 10px 16px; font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px; border: none; text-align: left;">Carpeta</th>
-      <th style="color: white; padding: 10px 16px; font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px; border: none; text-align: left;">Proposito</th>
+      <th style="color: white; padding: 10px 16px; font-size: 0.85em; text-transform: uppercase; letter-spacing: 1px; border: none; text-align: left;">Prop&oacute;sito</th>
     </tr>
   </thead>
   <tbody>
     <tr style="background: #FFF1C9;">
-      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">C</strong> — Capturar</td>
+      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">C</strong> &mdash; Capturar</td>
       <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><code>00 Inbox/</code></td>
-      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Punto de entrada unico. Todo llega aqui sin clasificar.</td>
+      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Punto de entrada &uacute;nico. Todo llega aqu&iacute; sin clasificar.</td>
     </tr>
     <tr>
-      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">O</strong> — Organizar</td>
+      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">O</strong> &mdash; Organizar</td>
       <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><code>01 Organizar/</code></td>
-      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Templates y taxonomia de tags.</td>
+      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Templates y taxonom&iacute;a de tags.</td>
     </tr>
     <tr style="background: #FFF1C9;">
-      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">R</strong> — Relacionar</td>
+      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">R</strong> &mdash; Relacionar</td>
       <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><code>02 MOCs/</code></td>
       <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Mapas de Contenido por dominio.</td>
     </tr>
     <tr>
-      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">T</strong> — Transformar</td>
+      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">T</strong> &mdash; Transformar</td>
       <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><code>03 Transformar/</code></td>
-      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Proyectos, estudio y gestion de startup.</td>
+      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Proyectos, estudio y gesti&oacute;n de startup.</td>
     </tr>
     <tr style="background: #FFF1C9;">
-      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">E</strong> — Evaluar</td>
+      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">E</strong> &mdash; Evaluar</td>
       <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><code>04 Evaluar/</code></td>
-      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Areas de responsabilidad y metricas de salud.</td>
+      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">&Aacute;reas de responsabilidad y m&eacute;tricas de salud.</td>
     </tr>
     <tr>
-      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">X</strong> — eXpandir</td>
+      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">X</strong> &mdash; eXpandir</td>
       <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><code>05 eXpandir/</code></td>
-      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Reflexion, diario, decisiones y memoria AXIS.</td>
+      <td style="padding: 8px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Reflexi&oacute;n, diario, decisiones y memoria AXIS.</td>
     </tr>
   </tbody>
 </table>
@@ -193,17 +193,17 @@ Cubre <strong style="color: #4B167A;">cuatro dominios</strong> a traves de <stro
   <thead>
     <tr style="background: linear-gradient(135deg, #4B167A, #8E44AD);">
       <th style="color: white; padding: 8px 14px; border: none; text-align: left;">Momento</th>
-      <th style="color: white; padding: 8px 14px; border: none; text-align: left;">Accion</th>
+      <th style="color: white; padding: 8px 14px; border: none; text-align: left;">Acci&oacute;n</th>
       <th style="color: white; padding: 8px 14px; border: none; text-align: center;">Pilar</th>
       <th style="color: white; padding: 8px 14px; border: none; text-align: center;">Tiempo</th>
     </tr>
   </thead>
   <tbody>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Durante el dia</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Capturar todo al inbox</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">C</strong></td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">5 seg</td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Durante el d&iacute;a</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Capturar todo al inbox</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">C</strong></td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">5 seg</td></tr>
     <tr><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Tarde</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Procesar inbox, clasificar y conectar</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">O + R</strong></td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">5 min</td></tr>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Tarde</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Ejecutar tareas del dia</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">T</strong></td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">10 min</td></tr>
-    <tr><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Noche</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Checklist de areas</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">E</strong></td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">2 min</td></tr>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Noche</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Diario + extraccion AXIS</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">X</strong></td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">5 min</td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Tarde</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Ejecutar tareas del d&iacute;a</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">T</strong></td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">10 min</td></tr>
+    <tr><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Noche</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Checklist de &aacute;reas</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">E</strong></td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">2 min</td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Noche</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Diario + extracci&oacute;n AXIS</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">X</strong></td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">5 min</td></tr>
   </tbody>
 </table>
 
@@ -218,17 +218,17 @@ Cubre <strong style="color: #4B167A;">cuatro dominios</strong> a traves de <stro
     </tr>
   </thead>
   <tbody>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">1</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Revisar proyectos: avances, bloqueos, proximos pasos</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">T</strong></td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">1</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Revisar proyectos: avances, bloqueos, pr&oacute;ximos pasos</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">T</strong></td></tr>
     <tr><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">2</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Revisar estudio: progreso en cursos, repaso pendiente</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">T</strong></td></tr>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">3</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Revisar startup: metricas, OKRs, funnel, decisiones</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">T</strong></td></tr>
-    <tr><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">4</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Evaluar areas: metricas de salud, checklist cumplido</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">E</strong></td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">3</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Revisar startup: m&eacute;tricas, OKRs, funnel, decisiones</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">T</strong></td></tr>
+    <tr><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">4</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Evaluar &aacute;reas: m&eacute;tricas de salud, checklist cumplido</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">E</strong></td></tr>
     <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">5</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Revisar extracciones AXIS de la semana</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">X</strong></td></tr>
     <tr><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">6</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Actualizar contexto recurrente de A.X.I.S.</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">X</strong></td></tr>
     <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">7</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Planificar la semana siguiente</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">T</strong></td></tr>
   </tbody>
 </table>
 
-### Mensual (ultimo dia, 60 min)
+### Mensual (&uacute;ltimo d&iacute;a, 60 min)
 
 <table style="border-collapse: collapse; width: 100%; border-radius: 10px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,0.06);">
   <thead>
@@ -239,11 +239,11 @@ Cubre <strong style="color: #4B167A;">cuatro dominios</strong> a traves de <stro
     </tr>
   </thead>
   <tbody>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">1</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Retrospectiva de startup: OKRs, metricas, roadmap</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">T</strong></td></tr>
-    <tr><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">2</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Revision mensual de proyectos y estudio</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">T + E</strong></td></tr>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">3</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Evaluacion profunda de metricas de areas</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">E</strong></td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">1</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Retrospectiva de startup: OKRs, m&eacute;tricas, roadmap</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">T</strong></td></tr>
+    <tr><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">2</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Revisi&oacute;n mensual de proyectos y estudio</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">T + E</strong></td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">3</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Evaluaci&oacute;n profunda de m&eacute;tricas de &aacute;reas</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">E</strong></td></tr>
     <tr><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">4</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Consolidar memoria persistente de A.X.I.S.</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #8E44AD;">X</strong></td></tr>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">5</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Establecer objetivos del proximo mes</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">T</strong></td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">5</td><td style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);">Establecer objetivos del pr&oacute;ximo mes</td><td align="center" style="padding: 6px 14px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong style="color: #4B167A;">T</strong></td></tr>
   </tbody>
 </table>
 
@@ -257,7 +257,7 @@ Cubre <strong style="color: #4B167A;">cuatro dominios</strong> a traves de <stro
   <thead>
     <tr style="background: linear-gradient(135deg, #4B167A, #8E44AD);">
       <th style="color: white; padding: 8px 16px; border: none; text-align: left;">Plugin</th>
-      <th style="color: white; padding: 8px 16px; border: none; text-align: left;">Proposito</th>
+      <th style="color: white; padding: 8px 16px; border: none; text-align: left;">Prop&oacute;sito</th>
     </tr>
   </thead>
   <tbody>
@@ -265,11 +265,11 @@ Cubre <strong style="color: #4B167A;">cuatro dominios</strong> a traves de <stro
     <tr><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong>Templater</strong></td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Templates avanzados con variables, funciones y scripts.</td></tr>
     <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong>Calendar</strong></td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Calendario lateral para navegar por fechas.</td></tr>
     <tr><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong>Kanban</strong></td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Tableros estilo Trello para proyectos.</td></tr>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong>Tasks</strong></td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Gestion avanzada de tareas con fechas, prioridades y filtros.</td></tr>
-    <tr><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong>Obsidian Git</strong></td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Backup automatico a GitHub del vault.</td></tr>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong>Periodic Notes</strong></td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Notas diarias, semanales y mensuales automaticas.</td></tr>
-    <tr><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong>Tag Wrangler</strong></td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Gestion masiva de tags (renombrar, fusionar, eliminar).</td></tr>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong>Quick Add</strong></td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Captura rapida con comandos personalizados.</td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong>Tasks</strong></td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Gesti&oacute;n avanzada de tareas con fechas, prioridades y filtros.</td></tr>
+    <tr><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong>Obsidian Git</strong></td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Backup autom&aacute;tico a GitHub del vault.</td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong>Periodic Notes</strong></td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Notas diarias, semanales y mensuales autom&aacute;ticas.</td></tr>
+    <tr><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong>Tag Wrangler</strong></td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Gesti&oacute;n masiva de tags (renombrar, fusionar, eliminar).</td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong>Quick Add</strong></td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Captura r&aacute;pida con comandos personalizados.</td></tr>
     <tr><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);"><strong>Excalidraw</strong></td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Diagramas y dibujo visual integrado.</td></tr>
   </tbody>
 </table>
@@ -289,13 +289,13 @@ Cubre <strong style="color: #4B167A;">cuatro dominios</strong> a traves de <stro
     </tr>
   </thead>
   <tbody>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Captura</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Sin paso explicito</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Inbox + captura automatica desde AXIS</td></tr>
-    <tr><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Organizacion</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Carpetas planas</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Tags jerarquicos + indices Dataview</td></tr>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Proyectos</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Estados basicos</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">OKRs + Roadmap + Metricas + Retrospectivas</td></tr>
-    <tr><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Startup</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">No existia</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Sub-pilar completo con OKRs, funnel, roadmap</td></tr>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Estudio</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">No existia</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Cursos + rutas + spaced repetition</td></tr>
-    <tr><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Areas</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Carpetas estaticas</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Checklists + metricas + rutinas</td></tr>
-    <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Memoria IA</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">No existia</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">3 niveles: sesion, semanal, persistente</td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Captura</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Sin paso expl&iacute;cito</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Inbox + captura autom&aacute;tica desde AXIS</td></tr>
+    <tr><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Organizaci&oacute;n</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Carpetas planas</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Tags jer&aacute;rquicos + &iacute;ndices Dataview</td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Proyectos</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Estados b&aacute;sicos</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">OKRs + Roadmap + M&eacute;tricas + Retrospectivas</td></tr>
+    <tr><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Startup</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">No exist&iacute;a</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Sub-pilar completo con OKRs, funnel, roadmap</td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Estudio</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">No exist&iacute;a</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Cursos + rutas + spaced repetition</td></tr>
+    <tr><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">&Aacute;reas</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Carpetas est&aacute;ticas</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Checklists + m&eacute;tricas + rutinas</td></tr>
+    <tr style="background: #FFF1C9;"><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Memoria IA</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">No exist&iacute;a</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">3 niveles: sesi&oacute;n, semanal, persistente</td></tr>
     <tr><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Revisiones</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Sin periodicidad</td><td style="padding: 6px 16px; border-bottom: 1px solid rgba(44,42,51,0.06);">Diaria + semanal + mensual estructurada</td></tr>
   </tbody>
 </table>
@@ -306,7 +306,7 @@ Cubre <strong style="color: #4B167A;">cuatro dominios</strong> a traves de <stro
 
 ## Grafo del Vault
 
-Los nodos del grafo de Obsidian se colorean automaticamente segun la carpeta:
+Los nodos del grafo de Obsidian se colorean autom&aacute;ticamente seg&uacute;n la carpeta:
 
 <div align="center">
 
@@ -345,8 +345,8 @@ Los nodos del grafo de Obsidian se colorean automaticamente segun la carpeta:
   <br>
   <div style="background: linear-gradient(135deg, #4B167A, #8E44AD); border-radius: 12px; padding: 24px 32px; max-width: 500px; margin: 0 auto; box-shadow: 0 4px 20px rgba(75,22,122,0.2);">
     <p style="color: #FFF1C9; font-size: 0.9em; letter-spacing: 1px; opacity: 0.8; margin: 0 0 4px 0;">C.O.R.T.E.X. v2</p>
-    <p style="color: #F2C14E; font-size: 1.1em; font-weight: 500; margin: 0 0 2px 0;">Capturar · Organizar · Relacionar</p>
-    <p style="color: #F2C14E; font-size: 1.1em; font-weight: 500; margin: 0;">Transformar · Evaluar · eXpandir</p>
+    <p style="color: #F2C14E; font-size: 1.1em; font-weight: 500; margin: 0 0 2px 0;">Capturar &middot; Organizar &middot; Relacionar</p>
+    <p style="color: #F2C14E; font-size: 1.1em; font-weight: 500; margin: 0;">Transformar &middot; Evaluar &middot; eXpandir</p>
     <p style="color: #FFF1C9; font-size: 0.75em; opacity: 0.6; margin: 10px 0 0 0;">
       Construido por <strong>gpb-codes</strong>
     </p>
